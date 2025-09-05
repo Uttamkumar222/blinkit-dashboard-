@@ -82,5 +82,5 @@ Managers need a fast, interactive way to compare categories and outlets, underst
 ---
 
 ## Screenshots
-Add PNGs in `/docs/images` and embed here:
+Add PNGs in `/docs/images` and embed here:https://github.com/Uttamkumar222/blinkit-dashboard-/blob/main/Screenshot%202025-09-05%20155125.png
 
